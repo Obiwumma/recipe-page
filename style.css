@@ -1,0 +1,12 @@
+body{
+  background-color: rgb(250, 228, 232);
+}
+
+img{
+  width: inherit;
+}
+
+.main{
+  width: 250px;
+  background-color: #ffffff;
+}
