@@ -53,9 +53,21 @@ img{
 }
 .ingred ul{
   padding-left: 30px;
-  margin-top: 0;
-  font-size: 13px;
 }
 .ingred li{
   margin-bottom: 10px;
+}
+.instruct h1{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #7b4551;
+}
+.instruct ol{
+  padding-left: 25px;
+}
+.instruct li{
+  margin-bottom: 12px;
+}
+.instruct li::marker{
+  color: #7b4551;
+  font-weight: 600;
 }
