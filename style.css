@@ -71,3 +71,26 @@ img{
   color: #7b4551;
   font-weight: 600;
 }
+
+.nutri h1{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #7b4551;
+}
+.nutri ul{
+  padding-left: 25px;
+  list-style: none;
+  margin-top: 30px;
+}
+.nutri li{
+  display: flex;
+  flex-direction: row;
+  margin-left: 30px;
+  justify-content: space-between;
+}
+.nutri hr{
+  margin: 10px;
+}
+.nutri b{
+  color: #7b4551;
+  margin-right: 250px;
+}
