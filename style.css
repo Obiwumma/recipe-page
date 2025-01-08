@@ -2,7 +2,13 @@ body{
   background-color: #ffe8ecc6;
   display: flex;
   justify-content: center;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 13px;
+}
+
+hr{
+  margin-top: 35px;
+  margin-bottom: 35px;
 }
 
 img{
@@ -14,7 +20,7 @@ img{
   width: 600px;
   background-color: #ffffff;
   margin-top: 40px;
-  padding: 20px;
+  padding: 30px;
   border-radius: 10px;
 }
 .prep{
@@ -33,9 +39,6 @@ img{
 .prep li{
   margin-bottom: 10px;
 }
-.prep ::marker{
-  margin-right: 100px;
-}
 .prep h4{
   margin: 0px;
   padding-top: 15px;
@@ -43,4 +46,16 @@ img{
 }
 .main ul{
   margin-top: 0;
+}
+.ingred h1{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #7b4551;
+}
+.ingred ul{
+  padding-left: 30px;
+  margin-top: 0;
+  font-size: 13px;
+}
+.ingred li{
+  margin-bottom: 10px;
 }
