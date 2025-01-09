@@ -21,6 +21,7 @@ img{
   width: 600px;
   background-color: #ffffff;
   margin-top: 40px;
+  margin-bottom: 60px;
   padding: 30px;
   border-radius: 10px;
 }
@@ -37,7 +38,7 @@ img{
   margin-top: 0;
   font-size: 13px;
 }
-.prep li{
+.prep li, .ingred li{
   margin-bottom: 10px;
 }
 .prep h4{
@@ -48,19 +49,12 @@ img{
 .main ul{
   margin-top: 0;
 }
-.ingred h1{
+.ingred h1, .instruct h1, .nutri h1{
   font-family: Georgia, 'Times New Roman', Times, serif;
   color: #7b4551ee;
 }
 .ingred ul{
   padding-left: 30px;
-}
-.ingred li{
-  margin-bottom: 10px;
-}
-.instruct h1{
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  color: #7b4551ee;
 }
 .instruct ol{
   padding-left: 25px;
@@ -71,11 +65,6 @@ img{
 .instruct li::marker{
   color: #7b4551ee;
   font-weight: 600;
-}
-
-.nutri h1{
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  color: #7b4551ee;
 }
 .nutri ul{
   padding-left: 25px;
