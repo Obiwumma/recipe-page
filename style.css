@@ -4,6 +4,7 @@ body{
   justify-content: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 13px;
+  color: #000000a4;
 }
 
 hr{
@@ -49,7 +50,7 @@ img{
 }
 .ingred h1{
   font-family: Georgia, 'Times New Roman', Times, serif;
-  color: #7b4551;
+  color: #7b4551ee;
 }
 .ingred ul{
   padding-left: 30px;
@@ -59,7 +60,7 @@ img{
 }
 .instruct h1{
   font-family: Georgia, 'Times New Roman', Times, serif;
-  color: #7b4551;
+  color: #7b4551ee;
 }
 .instruct ol{
   padding-left: 25px;
@@ -68,13 +69,13 @@ img{
   margin-bottom: 12px;
 }
 .instruct li::marker{
-  color: #7b4551;
+  color: #7b4551ee;
   font-weight: 600;
 }
 
 .nutri h1{
   font-family: Georgia, 'Times New Roman', Times, serif;
-  color: #7b4551;
+  color: #7b4551ee;
 }
 .nutri ul{
   padding-left: 25px;
@@ -91,6 +92,6 @@ img{
   margin: 10px;
 }
 .nutri b{
-  color: #7b4551;
+  color: #7b4551ee;
   margin-right: 250px;
 }
