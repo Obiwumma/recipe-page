@@ -16,7 +16,9 @@ img{
   width: inherit;
   border-radius: 5px;
 }
-
+li{
+  padding-left: 15px;
+}
 .main{
   width: 600px;
   background-color: #ffffff;
